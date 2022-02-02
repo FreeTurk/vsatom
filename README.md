@@ -70,7 +70,7 @@ Go to the settings page (the GUI version this time) by pressing <kbd>CTRL</kbd> 
 From there, disable the following settings:
 * `Breadcrumbs: Enabled`
 * `Editor › Minimap: Enabled`
-* `Workbench › Activity Bar: Visible
+* `Workbench › Activity Bar: Visible`
 
 And... Done!
 
