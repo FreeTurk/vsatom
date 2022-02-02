@@ -1,0 +1,63 @@
+.monaco-workbench .sidebar>.title>.title-label {
+    width: 100%;
+    text-align: center;
+    line-height: 40px;
+}
+
+.monaco-workbench .sidebar>.title>.title-label>h2 {
+    font-size: 8pt;
+    font-weight: 600;
+    color: #fff;
+    margin: 0;
+}
+
+.monaco-workbench .sidebar>.composite.title>.title-actions {
+    display: none !important;
+}
+
+.monaco-workbench .sidebar>.title {
+    height: 40px;
+}
+
+.monaco-workbench .part.editor>.content .editor-group-container>.title .editor-actions {
+    display: none !important;
+}
+
+.monaco-workbench .part.sidebar .title-actions .actions-container[aria-label="Explorer: vsatom actions"] {
+    display: none;
+}
+
+.monaco-workbench .part.editor>.content .editor-group-container>.title .tabs-container>.tab.sizing-fit {
+    flex-shrink: unset !important;
+    width: 100% !important;
+    min-width: 7em !important;
+    max-width: 22em !important;
+}
+
+.monaco-workbench .part.editor>.content .editor-group-container>.title .monaco-icon-label:before {
+    display: none !important;
+}
+
+.monaco-workbench .part.editor>.content .editor-group-container>.title .tabs-container>.tab.sizing-fit .monaco-icon-label,
+.monaco-workbench .part.editor>.content .editor-group-container>.title .tabs-container>.tab.sizing-fit .monaco-icon-label>.monaco-icon-label-container {
+    text-align: center;
+    width: 100%;
+    overflow: hidden;
+}
+
+.tab-actions {
+    position: absolute;
+    right: 0;
+    padding-right: 0.5em;
+    height: 100%;
+    transition: 0.2s;
+    background-color: transparent;
+}
+
+.tab:hover .tab-actions {
+    background-color: inherit;
+}
+
+.tab {
+    padding: 0 0.66em !important;
+}
