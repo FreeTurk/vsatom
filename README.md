@@ -32,6 +32,10 @@ Requirements:
 
 To start, you should install the [Custom CSS and JS Loader](https://marketplace.visualstudio.com/items?itemName=be5invis.vscode-custom-css) extension. Set it up according to its README, then come back here.
 
+Also, go to your Visual Studio Code extensions, and install two things:
+* `One Dark Theme`
+* `Material Icons`
+
 Then you should clone this repository to anywhere you want
 
 ```git clone https://github.com/FreeTurk/vsatom.git```
