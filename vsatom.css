@@ -61,3 +61,8 @@
 .tab {
     padding: 0 0.66em !important;
 }
+
+.monaco-workbench .part.editor>.content .editor-group-container>.title.breadcrumbs .monaco-icon-label:after,
+.monaco-workbench .part.editor>.content .editor-group-container>.title.tabs .monaco-icon-label:after {
+    display: none !important;
+}

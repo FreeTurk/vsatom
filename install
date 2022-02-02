@@ -1,0 +1,9 @@
+#!/bin/bash
+
+mkdir ~/.local/share/styles
+mkdir ~/.local/share/styles/backup
+
+cp /usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.css ~/.local/share/styles/backup
+
+cp ./vsatom.css ~/.local/share/styles/vsatom.css
+cp ./workbench.desktop.main.css /usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.css
