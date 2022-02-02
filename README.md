@@ -29,9 +29,8 @@ Requirements:
 * This script
 * Some time in case something goes wrong
 <br>
-### To start:
 
-You should install the [Custom CSS and JS Loader](https://marketplace.visualstudio.com/items?itemName=be5invis.vscode-custom-css) extension. Set it up according to its README, then come back here.
+To start, you should install the [Custom CSS and JS Loader](https://marketplace.visualstudio.com/items?itemName=be5invis.vscode-custom-css) extension. Set it up according to its README, then come back here.
 
 Then you should clone this repository to anywhere you want
 
